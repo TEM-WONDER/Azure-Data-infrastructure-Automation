@@ -45,7 +45,6 @@ The infrastructure provisioned by this project includes:
 - **Azure Databricks Workspace with Notebooks and Cluster**
 - **Azure Synapse Analytics Workspace with SQL Pool**
 
-![Architecture Diagram](path_to_architecture_diagram.png) <!-- Replace with actual path if available -->
 
 ## Data Engineering Process
 
@@ -122,7 +121,6 @@ Processed data can be consumed by various downstream applications or services, s
 3. **Synapse Analytics** connects to the Gold layer for advanced analytics and reporting.
 4. **Data Consumption** by end-users or applications through various tools and services.
 
-![Data Engineering Workflow](path_to_data_engineering_workflow_diagram.png) <!-- Replace with actual path if available -->
 
 ## Features
 
@@ -149,7 +147,7 @@ Processed data can be consumed by various downstream applications or services, s
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/Azure-Data-infrastructure-Automation.git
+git clone https://github.com/TEM-WONDER/Azure-Data-infrastructure-Automation.git
 cd Azure-Data-infrastructure-Automation
 ```
 
@@ -269,8 +267,8 @@ Type `yes` to confirm the destruction.
 Contributions are welcome! Please open an issue or submit a pull request to contribute to this project.
 
 ## License
-
-[MIT License](LICENSE) <!-- Replace with the appropriate license if different -->
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
 ---
 
